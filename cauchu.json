@@ -6,12 +6,12 @@
   "cover": "https://i.imgur.com/1hc55bZ.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "",
       "volume": "1",
       "last_updated": "1643945533",
       "groups": {
         "Cà Rốt Nhảm Nhí": [
-          "https://imgur.com/a/1fkRIG2"
+          "/proxy/api/imgur/chapter/1fkRIG2"
         ]
       }
     },
