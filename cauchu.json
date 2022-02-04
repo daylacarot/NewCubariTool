@@ -1,0 +1,49 @@
+{
+  "title": "cauchu",
+  "description": "Tựa đề nói lên tất cả..\nTrans and Edit: #summeriot\nUpdate nhanh nhất tại https://www.facebook.com/carotnhamnhi",
+  "artist": "Aio",
+  "author": "Aio",
+  "cover": "https://i.imgur.com/1hc55bZ.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1643945533",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          "https://imgur.com/a/1fkRIG2"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1643945594",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          "imgur.com/a/15qaPw4"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1643945622",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          "imgur.com/a/NSS4X50"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1643945651",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          "imgur.com/a/69Ng6kD"
+        ]
+      }
+    }
+  }
+}
