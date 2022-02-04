@@ -16,32 +16,32 @@
       }
     },
     "2": {
-      "title": "2",
+      "title": "",
       "volume": "1",
       "last_updated": "1643945594",
       "groups": {
         "Cà Rốt Nhảm Nhí": [
-          "imgur.com/a/15qaPw4"
+          "/proxy/api/imgur/chapter/15qaPw4"
         ]
       }
     },
     "3": {
-      "title": "3",
+      "title": "",
       "volume": "1",
       "last_updated": "1643945622",
       "groups": {
         "Cà Rốt Nhảm Nhí": [
-          "imgur.com/a/NSS4X50"
+          "/proxy/api/imgur/chapter/NSS4X50"
         ]
       }
     },
     "4": {
-      "title": "4",
+      "title": "",
       "volume": "1",
       "last_updated": "1643945651",
       "groups": {
         "Cà Rốt Nhảm Nhí": [
-          "imgur.com/a/69Ng6kD"
+          "/proxy/api/imgur/chapter/69Ng6kD"
         ]
       }
     }
