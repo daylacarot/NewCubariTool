@@ -1,49 +1,41 @@
 {
-  "title": "Cậu chủ muốn trở thành con gái",
-  "description": "Tựa đề nói lên tất cả..\nTrans and Edit: #summeriot\nUpdate nhanh nhất tại https://www.facebook.com/carotnhamnhi",
-  "artist": "Aio",
-  "author": "Aio",
-  "cover": "https://i.imgur.com/1hc55bZ.jpg",
-  "chapters": {
-    "1": {
-      "title": "",
-      "volume": "1",
-      "last_updated": "1643945533",
-      "groups": {
-        "Cà Rốt Nhảm Nhí": [
-          "/proxy/api/imgur/chapter/1fkRIG2"
-        ]
+   "title":"Cậu chủ muốn trở thành con gái",
+   "description":"Tựa đề nói lên tất cả.. \r\n Trans and Edit: #summeriot \r\n Update nhanh nhất tại https://www.facebook.com/carotnhamnhi",
+   "author":"Aio",
+   "artist":"Aio",
+   "cover":"https://i.imgur.com/1hc55bZ.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/1fkRIG2"
+         },
+         "last_updated":1634735407,
+         "title":"",
+         "volume":"1"
+      },
+      "2":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/15qaPw4"
+         },
+         "last_updated":1634735407
+      },
+      "3":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/NSS4X50"
+         },
+         "last_updated":1634735407
+      },
+      "4":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/69Ng6kD"
+         },
+         "last_updated":1634735407
       }
-    },
-    "2": {
-      "title": "",
-      "volume": "1",
-      "last_updated": "1643945594",
-      "groups": {
-        "Cà Rốt Nhảm Nhí": [
-          "/proxy/api/imgur/chapter/15qaPw4"
-        ]
-      }
-    },
-    "3": {
-      "title": "",
-      "volume": "1",
-      "last_updated": "1643945622",
-      "groups": {
-        "Cà Rốt Nhảm Nhí": [
-          "/proxy/api/imgur/chapter/NSS4X50"
-        ]
-      }
-    },
-    "4": {
-      "title": "",
-      "volume": "1",
-      "last_updated": "1643945651",
-      "groups": {
-        "Cà Rốt Nhảm Nhí": [
-          "/proxy/api/imgur/chapter/69Ng6kD"
-        ]
-      }
-    }
-  }
+   }
 }
