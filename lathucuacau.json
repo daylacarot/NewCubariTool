@@ -3,6 +3,15 @@
   "description": "Vì bảo vệ bạn học cùng lớp mà Sori bị trở thành đối tượng bắt nạt. \nSau khi chuyển đến 1 ngôi trường khác, cô ấy nhận được 1 lá thư bí ẩn..\n\nTrans & Edit: #Zen\nCheck: #Kyou",
   "artist": "Hyeon A Cho",
   "author": "Hyeon A Cho",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://i.imgur.com/WDRP9MA.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1647335469",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/99Biwqx"
+      }
+    }
+  }
 }
