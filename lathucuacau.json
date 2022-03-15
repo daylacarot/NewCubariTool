@@ -1,6 +1,6 @@
 {
   "title": "Lá thư của cậu",
-  "description": "Vì bảo vệ bạn học cùng lớp mà Sori bị trở thành đối tượng bắt nạt. \nSau khi chuyển đến 1 ngôi trường khác, cô ấy nhận được 1 lá thư bí ẩn..\n\nTrans & Edit: #Zen\nCheck: #Kyou",
+  "description": "Vì bảo vệ bạn học cùng lớp mà Sori bị trở thành đối tượng bắt nạt. \nSau khi chuyển đến 1 ngôi trường khác, cô ấy nhận được 1 lá thư bí ẩn..\n\nTrans & Edit: #Zen\nCheck: #Kyou\nTeam: Cà Rốt Nhảm Nhí - FB.com/carotnhamnhi",
   "artist": "Hyeon A Cho",
   "author": "Hyeon A Cho",
   "cover": "https://i.imgur.com/WDRP9MA.jpg",
@@ -19,6 +19,14 @@
       "last_updated": "1647335556",
       "groups": {
         "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/t4F3QPS"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1647335641",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/UhA5yqo"
       }
     }
   }
