@@ -7,10 +7,18 @@
   "chapters": {
     "1": {
       "title": "1",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1647335469",
       "groups": {
         "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/99Biwqx"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1647335556",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/t4F3QPS"
       }
     }
   }
