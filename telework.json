@@ -1,6 +1,6 @@
 {
   "title": "Làm việc từ xa",
-  "description": "Trong lúc tân trang không gian làm việc tại nhà, Nokoru Mitsuhashi đã gặp hàng xóm của mình là Natsu Izumi.. cũng chính là vợ tương lai của anh ta\n\nUpdate nhanh nhất tại Page: FB.com/carotnhamnhi",
+  "description": "Trong lúc tân trang không gian làm việc tại nhà, Nokoru Mitsuhashi đã gặp hàng xóm của mình là Natsu Izumi.. cũng chính là vợ tương lai của anh ta",
   "artist": "Kintetsu Yamada",
   "author": "Kintetsu Yamada",
   "cover": "https://i.imgur.com/GxAtWBp.jpg",
@@ -158,11 +158,26 @@
       }
     },
     "20": {
-      "title": "",
+      "title": "END",
       "volume": "",
       "last_updated": "1681465441",
       "groups": {
         "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/RyxXUf4"
+      }
+    },
+    "20.5": {
+      "title": "Bonus Chap",
+      "volume": "",
+      "last_updated": "1762326333",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          "https://cdn.save.moe/b/OC8x2i5m.jpeg?dl=1",
+          "https://cdn.save.moe/b/55l46pbm.jpeg?dl=1",
+          "https://cdn.save.moe/b/928okL.jpeg?dl=1",
+          "https://cdn.save.moe/b/4wykyUrG.jpeg?dl=1",
+          "https://cdn.save.moe/b/2gQ7bN.jpeg?dl=1",
+          "https://cdn.save.moe/b/UcoY41j.jpeg?dl=1"
+        ]
       }
     }
   }
